@@ -84,7 +84,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\br.com.ltb.Camera\br.com.ltb.Camera\br.com.ltb.Camera.csproj">
+    <ProjectReference Include="..\..\br.com.ltb.Camera\br.com.ltb.Camera\br.com.ltb.Camera.csproj">
       <Project>{a034dbcc-b3b6-4151-b309-b55508fa0c7e}</Project>
       <Name>br.com.ltb.Camera</Name>
     </ProjectReference>

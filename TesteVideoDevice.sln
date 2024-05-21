@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteVideoDevice", "TesteVideoDevice\TesteVideoDevice.csproj", "{AF22FE1A-62BB-4AAC-AF85-523BEC408646}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.ltb.Camera", "..\..\br.com.ltb.Camera\br.com.ltb.Camera\br.com.ltb.Camera.csproj", "{A034DBCC-B3B6-4151-B309-B55508FA0C7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.ltb.Camera", "..\br.com.ltb.Camera\br.com.ltb.Camera\br.com.ltb.Camera.csproj", "{A034DBCC-B3B6-4151-B309-B55508FA0C7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
